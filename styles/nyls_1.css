@@ -1,0 +1,76 @@
+header{
+	
+	height: 300px;
+
+    color: black;
+}
+
+.section_1{
+	border: 3px black solid;
+	height: 180px;
+	margin-top: 0px;
+	padding-top: 0px;
+	background-image: url("design2_image1.JPG");
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-bottom: 0px;
+	background-size: 1333px 180px;
+}
+
+/*.logo{
+	height: 120px;
+	margin-right: 40px;
+}*/
+.section_2{
+	border: 3px black solid
+	color: black;
+    background-color: black;
+	height: 30px;
+	padding-top: 0px;
+}
+.section_2 h3{
+	color: white;
+	text-align: center;
+	margin: 0px;
+}
+.logo{
+	width: 70px;
+	height: 70px;
+	position: absolute;
+	right: 60px;
+	bottom: 410px;
+}
+nav{
+	float: left;
+	height: 200px;
+}
+article{
+	margin-left: 170px;
+}
+ul {
+    list-style-type: none;
+   
+}
+.souligner{
+	text-decoration: underline;
+}
+a{
+	text-decoration: none;
+}
+li{
+	 line-height: 30px;
+}
+#contact{
+	line-height: 30px;
+}
+ .carre{
+	list-style-type: square;
+}
+.lettre{
+	list-style-type: lower-alpha;
+}
+.cercle{
+	list-style-type: circle;}
+	table{
+		margin-bottom: 10px;
+	}
